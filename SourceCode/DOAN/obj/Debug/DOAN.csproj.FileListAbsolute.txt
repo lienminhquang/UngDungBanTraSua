@@ -1,0 +1,329 @@
+D:\Hệ quản trị csdl\DOAN\DOAN\bin\Debug\DOAN.exe.config
+D:\Hệ quản trị csdl\DOAN\DOAN\bin\Debug\DOAN.exe
+D:\Hệ quản trị csdl\DOAN\DOAN\bin\Debug\DOAN.pdb
+D:\Hệ quản trị csdl\DOAN\DOAN\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Hệ quản trị csdl\DOAN\DOAN\obj\Debug\DOAN.Login.resources
+D:\Hệ quản trị csdl\DOAN\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+D:\Hệ quản trị csdl\DOAN\DOAN\obj\Debug\DOAN.csproj.GenerateResource.cache
+D:\Hệ quản trị csdl\DOAN\DOAN\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+D:\Hệ quản trị csdl\DOAN\DOAN\obj\Debug\DOAN.csproj.CopyComplete
+D:\Hệ quản trị csdl\DOAN\DOAN\obj\Debug\DOAN.exe
+D:\Hệ quản trị csdl\DOAN\DOAN\obj\Debug\DOAN.pdb
+D:\Hệ quản trị csdl\DOAN\DOAN\obj\Debug\DOAN.MainContent.resources
+D:\Hệ quản trị csdl\DOAN\DOAN\obj\Debug\DOAN.csprojAssemblyReference.cache
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.Form1.resources
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.frm_ChiTietHoaDon.resources
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.frm_DoiMatKhau.resources
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.frm_DoiServer.resources
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.frm_DoiTaiKhoan.resources
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.frm_HoaDon.resources
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.frm_LoaiNhanVien.resources
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.frm_LoaiSanPham.resources
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.frm_NhanVien.resources
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.frm_NhapHang.resources
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.frm_SanPham.resources
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.frm_TaiKhoan.resources
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.frm_ThongTinTaiKhoan.resources
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.Login.resources
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.MainContent.resources
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.csproj.GenerateResource.cache
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.exe.licenses
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DOAN.exe.config
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DOAN.exe
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DOAN.pdb
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.Dialogs.v18.2.Core.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.SpellChecker.v18.2.Core.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraDialogs.v18.2.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraRichEdit.v18.2.Extensions.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraScheduler.v18.2.Core.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraScheduler.v18.2.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraScheduler.v18.2.Extensions.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraSpellChecker.v18.2.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.SpellChecker.v18.2.Core.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraDialogs.v18.2.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraRichEdit.v18.2.Extensions.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraSpellChecker.v18.2.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.Extensions.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.Extensions.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.Extensions.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.Extensions.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\de\DevExpress.XtraSpellChecker.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\es\DevExpress.XtraSpellChecker.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ja\DevExpress.XtraSpellChecker.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ru\DevExpress.XtraSpellChecker.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.csproj.CopyComplete
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.exe
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.pdb
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraScheduler.v18.2.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraScheduler.v18.2.Core.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.XtraScheduler.v18.2.Extensions.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\de\DevExpress.XtraScheduler.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\es\DevExpress.XtraScheduler.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ja\DevExpress.XtraScheduler.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ru\DevExpress.XtraScheduler.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\de\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\es\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ja\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ru\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\de\DevExpress.XtraScheduler.v18.2.Extensions.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\es\DevExpress.XtraScheduler.v18.2.Extensions.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ja\DevExpress.XtraScheduler.v18.2.Extensions.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ru\DevExpress.XtraScheduler.v18.2.Extensions.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\obj\Debug\DOAN.csprojAssemblyReference.cache
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.Xpo.v18.2.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\DevExpress.Xpo.v18.2.xml
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\hoang\Desktop\DOAN\DOAN\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DOAN.exe.config
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\obj\Debug\DOAN.exe
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\obj\Debug\DOAN.pdb
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\obj\Debug\DXApplication1.Form1.resources
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\obj\Debug\DXApplication1.frm_ChiTietHoaDon.resources
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\obj\Debug\DXApplication1.frm_DoiMatKhau.resources
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\obj\Debug\DXApplication1.frm_DoiServer.resources
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\obj\Debug\DXApplication1.frm_DoiTaiKhoan.resources
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\obj\Debug\DXApplication1.frm_HoaDon.resources
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\obj\Debug\DXApplication1.frm_LoaiNhanVien.resources
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\obj\Debug\DXApplication1.frm_LoaiSanPham.resources
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\obj\Debug\DXApplication1.frm_NhanVien.resources
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\obj\Debug\DXApplication1.frm_NhapHang.resources
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\obj\Debug\DXApplication1.frm_SanPham.resources
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\obj\Debug\DXApplication1.frm_TaiKhoan.resources
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\obj\Debug\DXApplication1.frm_ThongTinTaiKhoan.resources
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\obj\Debug\DOAN.Login.resources
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\obj\Debug\DOAN.MainContent.resources
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\obj\Debug\DOAN.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\obj\Debug\DOAN.exe.licenses
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DOAN.exe
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DOAN.pdb
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.Dialogs.v18.2.Core.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.SpellChecker.v18.2.Core.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.Xpo.v18.2.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraDialogs.v18.2.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraRichEdit.v18.2.Extensions.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraScheduler.v18.2.Core.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraScheduler.v18.2.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraScheduler.v18.2.Extensions.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraSpellChecker.v18.2.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.SpellChecker.v18.2.Core.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.Xpo.v18.2.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraDialogs.v18.2.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraRichEdit.v18.2.Extensions.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraScheduler.v18.2.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraScheduler.v18.2.Core.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraScheduler.v18.2.Extensions.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraSpellChecker.v18.2.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.Extensions.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.Extensions.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.Extensions.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.Extensions.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\de\DevExpress.XtraScheduler.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\es\DevExpress.XtraScheduler.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ja\DevExpress.XtraScheduler.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ru\DevExpress.XtraScheduler.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\de\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\es\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ja\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ru\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\de\DevExpress.XtraScheduler.v18.2.Extensions.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\es\DevExpress.XtraScheduler.v18.2.Extensions.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ja\DevExpress.XtraScheduler.v18.2.Extensions.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ru\DevExpress.XtraScheduler.v18.2.Extensions.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\de\DevExpress.XtraSpellChecker.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\es\DevExpress.XtraSpellChecker.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ja\DevExpress.XtraSpellChecker.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ru\DevExpress.XtraSpellChecker.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\DELL\Desktop\UngDungBanTraSua - Lien Minh Quan- Hoang Phong Sang\SourceCode\DOAN\obj\Debug\DOAN.csprojResolveAssemblyReference.cache
